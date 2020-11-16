@@ -1,0 +1,1 @@
+const ettpluss2 = `t is${1+2}`
